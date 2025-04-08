@@ -29,3 +29,5 @@ I was given a set of poll data called election_data.csv. The dataset is composed
 - The total number of votes each candidate won
 
 - The winner of the election based on popular vote
+
+_Each of the respective folders contains the solutions for both datasets._
