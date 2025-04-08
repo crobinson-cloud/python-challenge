@@ -30,4 +30,4 @@ I was given a set of poll data called election_data.csv. The dataset is composed
 
 - The winner of the election based on popular vote
 
-_Each of the respective folders contains the solutions for both datasets._
+**_Each of the respective folders contains the solutions for both datasets._**
